@@ -1,0 +1,6 @@
+openai
+sounddevice
+soundfile
+faster-whisper
+edge-tts
+pyyaml
